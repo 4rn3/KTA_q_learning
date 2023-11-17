@@ -18,4 +18,4 @@ on the score achieved by the agent</li>
 the score achieved by the agent</li>
 </ol>
 <br>
-[Full report (PDF)](KTA_q_learning/q_learning_report.pdf)
+[./](q_learning_report.pdf)
