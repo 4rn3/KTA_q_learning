@@ -9,12 +9,12 @@ mapping of every state and possible action to a value. The
 agent will learn which actions to take based on the values
 of this table.<br>
 <ol>
-<li>1. How does the behavior of the agent differ when using
+<li>How does the behavior of the agent differ when using
 a high or low value for the exploration-exploitation (ε)
 parameter</li>
-<li>2. Does the discount factor (γ) have a noticeable impact
+<li>Does the discount factor (γ) have a noticeable impact
 on the score achieved by the agent</li>
-<li>3. Does the learning rate (α) have a noticeable impact on
+<li>Does the learning rate (α) have a noticeable impact on
 the score achieved by the agent</li>
 </ol>
 [Full Documentation (PDF)](link-to-your-pdf)
