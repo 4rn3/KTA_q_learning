@@ -2,7 +2,8 @@
 In our project, we are tasked with learning an agent to
 traverse a frozen lake without falling into the water. The
 agent learns by trial-and-error, adjusting the actions it takes
-based on the rewards it received in the past.<br>
+based on the rewards it received in the past.
+<br>
 We will use the Q-learning algorithm. This algo-
 rithm generates a table called the Q-table which has a
 mapping of every state and possible action to a value. The
