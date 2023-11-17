@@ -16,5 +16,6 @@ parameter</li>
 on the score achieved by the agent</li>
 <li>Does the learning rate (α) have a noticeable impact on
 the score achieved by the agent</li>
-</ol><br>
+</ol>
+<br>
 [Full Documentation (PDF)](link-to-your-pdf)
