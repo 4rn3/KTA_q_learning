@@ -18,4 +18,4 @@ on the score achieved by the agent</li>
 the score achieved by the agent</li>
 </ol>
 <br>
-[./](q_learning_report.pdf)
+[Full report]([q_learning_report.pdf](https://github.com/4rn3/KTA_q_learning/blob/main/q_learning_report.pdf)https://github.com/4rn3/KTA_q_learning/blob/main/q_learning_report.pdf)
