@@ -1,4 +1,0 @@
-Epsilon:0.5, gamma:0.9, alpha:0.1, avg_reward: 0.05633333333333333, max_reward: 1.0, min_reward:0.0, runtime: 0.9306135177612305
-Epsilon:0.1, gamma:0.9, alpha:0.1, avg_reward: 0.0, max_reward: 0.0, min_reward:0.0, runtime: 0.38881754875183105
-Epsilon:1, gamma:0.9, alpha:0.1, avg_reward: 0.012666666666666666, max_reward: 1.0, min_reward:0.0, runtime: 0.6971766948699951
-Epsilon:0.01, gamma:0.9, alpha:0.1, avg_reward: 0.38166666666666665, max_reward: 1.0, min_reward:0.0, runtime: 1.966243028640747
