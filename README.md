@@ -18,4 +18,4 @@ on the score achieved by the agent</li>
 the score achieved by the agent</li>
 </ol>
 <br>
-[Full Documentation (PDF)]([link-to-your-pdf](KTA_q_learning/blob/main/KTA_Robot_Crawler.pdf)
+[Full Documentation (PDF)]([link-to-your-pdf](KTA_Robot_Crawler.pdf)
