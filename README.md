@@ -18,4 +18,4 @@ on the score achieved by the agent</li>
 the score achieved by the agent</li>
 </ol>
 <br>
-[Full Documentation (PDF)]([link-to-your-pdf](q_learning_report.pdf)
+[Full Documentation (PDF)]([q_learning_report.pdf])
